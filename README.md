@@ -30,3 +30,10 @@ flowchart LR
 ## Reproduce locally
 
 The source code is not included, so this repository currently cannot be installed or run locally. Add the API/UI source, model/provider configuration, and setup steps to make the project maintainable from GitHub.
+
+## Architecture
+
+
+![Image-Recognition-API-with-Auto-Captioning architecture map](docs/images/image-recognition-api-with-auto-captioning-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/image-recognition-api-with-auto-captioning-architecture.svg)
